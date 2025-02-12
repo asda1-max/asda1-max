@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>💫 About Me:</h1>
-      <p>I like tech things</p>
+      <p>A Computer Science Student.</p>
       <h1>💻 I'm Interested In:</h1>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
