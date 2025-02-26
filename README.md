@@ -17,7 +17,6 @@
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine"/>
       <img src="https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white"/>
